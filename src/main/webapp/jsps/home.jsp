@@ -10,9 +10,9 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients. landmark technologies zoom application is good.
+<h2 align="center">We are developing and supporting quality  Software Solutions to millions of clients. landmark technologies zoom application is good.
 	           Champions team all going to be hired on or before the end of the program in Jesus Name Amen.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
