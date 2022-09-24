@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>google_doc</finalName>
+		<finalName>zoom-app</finalName>
 		
 		<plugins>
 			<plugin>
